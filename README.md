@@ -1,5 +1,6 @@
 # Telegram-bot-translit
 #-Example of telegram bot in python for Cyrillic/Latin transliteration
+
 For launch of docker file please follow the instruction below:
 -install docker (type 'sudo snap install docker' in terminal)
 -in any code editor type 'docker build .' in terminal
