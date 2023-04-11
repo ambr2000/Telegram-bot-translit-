@@ -1,6 +1,6 @@
 ## Example of telegram bot in python for Cyrillic/Latin transliteration
 
-**Instruction for Docker
+Instruction for Docker
 
 
 - install docker (type '*sudo snap install docker*' in terminal)  
